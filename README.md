@@ -11,3 +11,8 @@ All versions of A'therys plugins will begin with the number `1`. This will only 
 `minor_version` - This will change with non-compatibility-breaking changes.
 
 `[A|B|R]` - This corresponds to Alpha, Beta and Release versions, respectively.
+
+### Examples
+
+`1.2.0A` - Major version 2, with no minor revisions, an Alpha version
+`1.9.4R` - Major version 9, minor version 4, Release version
