@@ -10,7 +10,7 @@ All versions of A'therys plugins will begin with the number `1`. This will only 
 
 `minor_version` - This will change with non-compatibility-breaking changes.
 
-`[A|B|R]` - This corresponds to Alpha, Beta and Release versions, respectively.
+`[A|B|R]` - Optional. This corresponds to Alpha, Beta and Release versions, respectively. If left out, it is understood that this is a Release version.
 
 ### Examples
 
