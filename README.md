@@ -6,7 +6,7 @@ The versioning guide for all A'therys plugins
 
 All versions of A'therys plugins will begin with the number `1`. This will only be changes in case of drastic, completely incompatible changes in the codebase of a plugin. Like, for example, switching between frameworks ( Spigot to Sponge, or Sponge to Forge, etc. ).
 
-`major_version` - This will change with every compatibility-breaking change.
+`major_version` - This will change with every compatibility-breaking change. When this happens, the `minor_version` will be reset to `0`.
 
 `minor_version` - This will change with non-compatibility-breaking changes.
 
